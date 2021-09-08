@@ -1,0 +1,36 @@
+{
+	"frontendLanguages":[
+		{"name":"JavaScript","skill":8},
+		{"name":"HTML","skill":7},
+		{"name":"CSS","skill":6},
+		{"name":"Bootstrap","skill":7},
+		{"name":"React JS","skill":5},
+		{"name":"JQuery","skill":8},
+		{"name":"Ajax","skill":8}
+	],
+	"backendLanguages":[
+		{"name":"Java","skill":9},
+		{"name":"J2EE","skill":8},
+		{"name":"Servlet / JSP","skill":9},
+		{"name":"Spring web mvc","skill":6},
+		{"name":"Spring boot","skill":8},
+		{"name":"Node JS","skill":3},
+		{"name":"Hibernate","skill":6},
+		{"name":"Android","skill":7},
+		{"name":"H2 database","skill":8},
+		{"name":"MySQL","skill":8},
+		{"name":"MS SQL server","skill":7},
+		{"name":"Stored Procedures","skill":4}
+	],
+	"tools":[
+		{"name":"Apache Netbeans","skill":9},
+		{"name":"Eclipse","skill":6},
+		{"name":"Spring Tool Suite","skill":6},
+		{"name":"VS code","skill":6},
+		{"name":"Php MyAdmin","skill":8},
+		{"name":"SQL Yog","skill":8},
+		{"name":"SQL server","skill":5},
+		{"name":"Postman","skill":7},
+		{"name":"Notepad ++","skill":8}
+	]
+}
