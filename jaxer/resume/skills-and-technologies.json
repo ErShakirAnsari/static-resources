@@ -6,7 +6,8 @@
 		{"name":"Bootstrap","skill":7},
 		{"name":"React JS","skill":5},
 		{"name":"JQuery","skill":8},
-		{"name":"Ajax","skill":8}
+		{"name":"Ajax","skill":8},
+		{"name":"Android","skill":5}
 	],
 	"backendLanguages":[
 		{"name":"Java","skill":9},
@@ -16,7 +17,6 @@
 		{"name":"Spring boot","skill":8},
 		{"name":"Node JS","skill":3},
 		{"name":"Hibernate","skill":6},
-		{"name":"Android","skill":7},
 		{"name":"H2 database","skill":8},
 		{"name":"MySQL","skill":8},
 		{"name":"MS SQL server","skill":7},
