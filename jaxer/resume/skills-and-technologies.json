@@ -1,5 +1,6 @@
 {
 	"frontendLanguages":[
+		{"name":"Api test","skill":1},
 		{"name":"JavaScript","skill":8},
 		{"name":"HTML","skill":7},
 		{"name":"CSS","skill":6},
