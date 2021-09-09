@@ -5,7 +5,7 @@
 			"position": "Sr. software developer",
 			"company": "Wipro",
 			"location": "Bengaluru",
-			"startDate": "May 2021",
+			"startDate": "May2021",
 			"endDate": "Working",
 			"about": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 		},
@@ -14,8 +14,8 @@
 			"position": "Assistant Team Leader",
 			"company": "Eduncle",
 			"location": "Kota",
-			"startDate": "November 2019",
-			"endDate": "May 2021",
+			"startDate": "Nov2019",
+			"endDate": "May2021",
 			"about": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 		},
 		{
@@ -23,8 +23,8 @@
 			"position": "Sr. Software Developer",
 			"company": "Eduncle",
 			"location": "Kota",
-			"startDate": "September2018",
-			"endDate": "November2019",
+			"startDate": "Sep2018",
+			"endDate": "Nov2019",
 			"about": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 		},
 		{
@@ -32,8 +32,8 @@
 			"position": "Software Developer",
 			"company": "ARIT",
 			"location": "Jodhpur",
-			"startDate": "February2018",
-			"endDate": "August2018",
+			"startDate": "Feb2018",
+			"endDate": "Aug2018",
 			"about": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 		},
 		{
@@ -41,8 +41,8 @@
 			"position": "Catalog Associate",
 			"company": "Amazon development center",
 			"location": "Bangaluru",
-			"startDate": "November2014",
-			"endDate": "January2017",
+			"startDate": "Nov2014",
+			"endDate": "Jan2017",
 			"about": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 		}
 	]
