@@ -1,0 +1,16 @@
+{
+	"navItems":[
+		{"id":1,"lable":"About","href":"#about"},
+		{"id":2,"lable":"Experience","href":"#experience"},
+		{"id":3,"lable":"Education","href":"#education"},
+		{"id":4,"lable":"Skills","href":"#skills"},
+		{"id":5,"lable":"Contact","href":"#contact"},
+		{
+			"id":6,
+			"lable":"Resume",
+			"href":"https://github.com/ErShakirAnsari/ErShakirAnsari.github.io/raw/master/cdn/cv/Shakir_A_Resume_v2021-04-05.pdf",
+			"isExternal":true,
+			"icon":"bi bi-download"
+		}
+	]
+}
