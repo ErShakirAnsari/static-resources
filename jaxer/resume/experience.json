@@ -35,7 +35,7 @@
 				"startDate": "2018-09-12",
 				"endDate": "2019-11-19",
 				"about": [
-					"Managing complete backend written SpringBoot, Hibernat Mysql along with elastic search.",
+					"Managing complete backend written <b>SpringBoot</b>, Hibernat Mysql along with elastic search.",
 					"Created custom auto scaling from AWS's EC2 for background process.",
 					"Good knowledge of web design by using html, css, bootstraps, jquery, reactJS.",
 					"Designed almost 70% of database and managing it."
