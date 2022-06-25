@@ -2,14 +2,25 @@
 	"experience": [
 		[
 			{
-				"id": 202105,
+				"id": 202206,
 				"position": "Sr. software developer",
 				"company": "Wipro",
 				"location": "Bengaluru, Karnataka",
-				"startDate": "2021-05-20",
+				"startDate": "2022-06-02",
 				"endDate": null,
+				"about": []
+			}
+		],
+		[
+			{
+				"id": 202105,
+				"position": "Sr. software developer",
+				"company": "Sellcraft Global Solutions Pvt Ltd",
+				"location": "Bengaluru, Karnataka",
+				"startDate": "2021-05-20",
+				"endDate": "2022-06-01",
 				"about": [
-					"Joined as Sr software developr in May 2021 on contract with Wipro(Bengaluru) as client of HP(USA)"
+					"On contract with Wipro(Bengaluru)"
 				]
 			}
 		],
