@@ -3,91 +3,108 @@
 		{
 			"id": 202206,
 			"company": {
+				"name": "Wipro",
 				"image": "images/wipro.jpg",
-				"company": "Wipro",
 				"location": "Bengaluru, Karnataka"
 			},
 			"positions": [
 				{
-					"position": "Sr. software developer",
+					"title": "Sr. software developer",
 					"startDate": "2022-06-02",
 					"endDate": null,
 					"about": []
 				}
 			]
 		},
-		[
-			{
-				"id": 202105,
-				"position": "Sr. software developer",
-				"company": "Sellcraft Global Solutions Pvt Ltd",
-				"location": "Bengaluru, Karnataka",
-				"startDate": "2021-05-20",
-				"endDate": "2022-06-01",
-				"about": [
-					"On contract with Wipro(Bengaluru)"
-				]
-			}
-		],
-		[
-			{
-				"id": 202011,
-				"position": "Assistant Team Leader",
-				"company": "Eduncle",
-				"location": "Kota, Rajasthan",
-				"startDate": "2019-11-20",
-				"endDate": "2021-05-19",
-				"about": [
-					"Worked hard to reduce issues and increase productivity.",
-					"Supervised 4 software developers.",
-					"Conducted new-hire training regularly throughout fiscal year."
-				]
+		{
+			"id": 202105,
+			"company": {
+				"name": "Sellcraft Global Solutions Pvt Ltd",
+				"image": "images/sellcraft.jpg",
+				"location": "Bengaluru, Karnataka"
 			},
-			{
-				"id": 201809,
-				"position": "Sr. Software Developer",
-				"company": "Eduncle",
-				"location": "Kota, Rajasthan",
-				"startDate": "2018-09-12",
-				"endDate": "2019-11-19",
-				"about": [
-					"Managing complete backend written <b>SpringBoot</b>, Hibernat Mysql along with elastic search.",
-					"Created custom auto scaling from AWS's EC2 for background process.",
-					"Good knowledge of web design by using html, css, bootstraps, jquery, reactJS.",
-					"Designed almost 70% of database and managing it."
-				]
-			}
-		],
-		[
-			{
-				"id": 201802,
-				"position": "Software Developer",
-				"company": "ARIT",
-				"location": "Jodhpur, Rajasthan",
-				"startDate": "2018-02-05",
-				"endDate": "2018-08-31",
-				"about": [
-					"Headed the development of a central Account Opening web portal to handle multiple business per day.",
-					"Single handed delivered 10+ new optimization for the system.",
-					"Integrated Payment Gateway (IDFC bank), to handle payments on a daily basis.",
-					"Integrated E signing documents from NSDL for Demate account"
-				]
-			}
-		],
-		[
-			{
-				"id": 201411,
-				"position": "Catalog Associate",
-				"company": "Amazon development center",
-				"location": "Bangaluru, Karnataka",
-				"startDate": "2014-11-10",
-				"endDate": "2017-01-31",
-				"about": [
-					"Designed innovative and interactive exhibits to showcase newly procured and digitized items.",
-					"Designed some rich product pages for USA based vendors for amazon.com",
-					"I also developed a tool called SAT (Smart Allocation Tool) for task allocation for my team. It was in pilot stage."
-				]
-			}
-		]
+			"positions": [
+				{
+					"title": "Sr. software developer",
+					"startDate": "2021-05-20",
+					"endDate": "2022-06-01",
+					"about": [
+						"On contract with Wipro(Bengaluru)"
+					]
+				}
+			]
+		},
+		{
+			"id": 202011,
+			"company": {
+				"name": "Eduncle",
+				"image": "images/eduncle.jpg",
+				"location": "Kota, Rajasthan"
+			},
+			"positions": [
+				{
+					"title": "Assistant Team Leader",
+					"startDate": "2019-11-20",
+					"endDate": "2021-05-19",
+					"about": [
+						"Worked hard to reduce issues and increase productivity.",
+						"Supervised 4 software developers.",
+						"Conducted new-hire training regularly throughout fiscal year."
+					]
+				},
+				{
+					"title": "Sr. Software Developer",
+					"startDate": "2018-09-12",
+					"endDate": "2019-11-19",
+					"about": [
+						"Managing complete backend written <b>SpringBoot</b>, Hibernat Mysql along with elastic search.",
+						"Created custom auto scaling from AWS's EC2 for background process.",
+						"Good knowledge of web design by using html, css, bootstraps, jquery, reactJS.",
+						"Designed almost 70% of database and managing it."
+					]
+				}
+			]
+		},
+		{
+			"id": 201802,
+			"company": {
+				"name": "ARIT",
+				"image": "images/arit.jpg",
+				"location": "Jodhpur, Rajasthan"
+			},
+			"positions": [
+				{
+					"title": "Software Developer",
+					"startDate": "2018-02-05",
+					"endDate": "2018-08-31",
+					"about": [
+						"Headed the development of a central Account Opening web portal to handle multiple business per day.",
+						"Single handed delivered 10+ new optimization for the system.",
+						"Integrated Payment Gateway (IDFC bank), to handle payments on a daily basis.",
+						"Integrated E signing documents from NSDL for Demate account"
+					]
+				}
+			]
+		},
+		{
+			"id": 201411,
+			"company": {
+				"name": "Amazon development center",
+				"image": "images/amazon.jpg",
+				"location": "Bangaluru, Karnataka"
+			},
+			"positions": [
+				{
+					"title": "Catalog Associate",
+					"startDate": "2014-11-10",
+					"endDate": "2017-01-31",
+					"about": [
+						"Designed innovative and interactive exhibits to showcase newly procured and digitized items.",
+						"Designed some rich product pages for USA based vendors for amazon.com",
+						"I also developed a tool called SAT (Smart Allocation Tool) for task allocation for my team. It was in pilot stage."
+					]
+				}
+			]
+		}
 	]
 }
