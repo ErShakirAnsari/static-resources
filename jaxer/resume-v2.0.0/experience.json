@@ -5,7 +5,9 @@
 			"company": {
 				"name": "Wipro",
 				"image": "/images/wipro.jpg",
-				"location": "Bengaluru, Karnataka"
+				"location": "Bengaluru, Karnataka",
+				"startDate": "2022-06-02",
+				"endDate": null
 			},
 			"positions": [
 				{
@@ -21,7 +23,9 @@
 			"company": {
 				"name": "Sellcraft Global Solutions Pvt Ltd",
 				"image": "/images/sellcraft.jpg",
-				"location": "Bengaluru, Karnataka"
+				"location": "Bengaluru, Karnataka",
+				"startDate": "2021-05-20",
+				"endDate": "2022-06-01"
 			},
 			"positions": [
 				{
@@ -39,7 +43,9 @@
 			"company": {
 				"name": "Eduncle",
 				"image": "/images/eduncle.jpg",
-				"location": "Kota, Rajasthan"
+				"location": "Kota, Rajasthan",
+				"startDate": "2018-09-12",
+				"endDate": "2021-05-19"
 			},
 			"positions": [
 				{
@@ -70,7 +76,9 @@
 			"company": {
 				"name": "Anand Rathi IT (ARIT)",
 				"image": "/images/arit.jpg",
-				"location": "Jodhpur, Rajasthan"
+				"location": "Jodhpur, Rajasthan",
+				"startDate": "2018-02-05",
+				"endDate": "2018-08-31"
 			},
 			"positions": [
 				{
@@ -91,7 +99,9 @@
 			"company": {
 				"name": "Amazon development center",
 				"image": "/images/amazon.jpg",
-				"location": "Bangaluru, Karnataka"
+				"location": "Bangaluru, Karnataka",
+				"startDate": "2014-11-10",
+				"endDate": "2017-01-31"
 			},
 			"positions": [
 				{
