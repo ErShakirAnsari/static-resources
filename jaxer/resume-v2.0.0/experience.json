@@ -4,7 +4,7 @@
 			"id": 202206,
 			"company": {
 				"name": "Wipro",
-				"image": "images/wipro.jpg",
+				"image": "/images/wipro.jpg",
 				"location": "Bengaluru, Karnataka"
 			},
 			"positions": [
@@ -20,7 +20,7 @@
 			"id": 202105,
 			"company": {
 				"name": "Sellcraft Global Solutions Pvt Ltd",
-				"image": "images/sellcraft.jpg",
+				"image": "/images/sellcraft.jpg",
 				"location": "Bengaluru, Karnataka"
 			},
 			"positions": [
@@ -38,7 +38,7 @@
 			"id": 202011,
 			"company": {
 				"name": "Eduncle",
-				"image": "images/eduncle.jpg",
+				"image": "/images/eduncle.jpg",
 				"location": "Kota, Rajasthan"
 			},
 			"positions": [
@@ -69,7 +69,7 @@
 			"id": 201802,
 			"company": {
 				"name": "ARIT",
-				"image": "images/arit.jpg",
+				"image": "/images/arit.jpg",
 				"location": "Jodhpur, Rajasthan"
 			},
 			"positions": [
@@ -90,7 +90,7 @@
 			"id": 201411,
 			"company": {
 				"name": "Amazon development center",
-				"image": "images/amazon.jpg",
+				"image": "/images/amazon.jpg",
 				"location": "Bangaluru, Karnataka"
 			},
 			"positions": [
