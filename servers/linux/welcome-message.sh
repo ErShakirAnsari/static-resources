@@ -4,7 +4,7 @@ USER_HOME="$(eval echo ~"$USER")"
 DIR="$USER_HOME/.ajaxer-org/servers"
 FILE=".welcome-message"
 BASHRC="$USER_HOME/.bashrc"
-FILE_URL="https://raw.githubusercontent.com/ErShakirAnsari/statics/main/servers/linux/.dotfiles/.welcome-message.txt"
+FILE_URL="https://raw.githubusercontent.com/ErShakirAnsari/statics/main/servers/linux/src/.welcome-message.txt"
 #echo $DIR
 
 mkdir -pv $DIR
