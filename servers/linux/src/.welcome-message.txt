@@ -2,17 +2,17 @@
 
                 \   _)                       
                _ \   |  _` |\ \  /  _ \  __| 
-              ___ \  | (   | `  <   __/ |    
-            _/    _\ |\__,_| _/\_\\___|_|    
+              ___ \  | (   | `  <   __/ |
+            _/    _\ |\__,_| _/\_\\___|_|
                  ___/                        
 
 +--------------------------------------------------+
-| This is a private server; explicit authorization | 
+| This is a private server; explicit authorization |
 | from the system owner is required for access or  |
 | use.                                             |
 |                                                  |
 | Unauthorized access or use may result in severe  |
 | civil and/or Criminal liability.                 |
 +--------------------------------------------------+
-|         All rights and lefts are reserved        |
+|         All rights and lefts are reserved.       |
 +--------------------------------------------------+
